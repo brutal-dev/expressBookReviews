@@ -1,1 +1,1 @@
-# coding-project-template
+# Node.js and Express.js IBM Full Stack Developer course final project
